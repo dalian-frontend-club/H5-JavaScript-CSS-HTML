@@ -76,7 +76,7 @@ Web Frontend Corner
 ## Awesome Web Site
 - [DevDocs(非常好的在线和离线资料库)(en)](http://devdocs.io/)
 - [caniuse(检查兼容性的网站)(en)](http://http://caniuse.com/)
-- [前端学习资料库(en)](https://github.com/FortAwesome/Font-Awesome)
+- [前端学习资料库](https://github.com/JingwenTian/awesome-frontend)
 
 ## Open source Project 
 - [Ghost(一个nodejs的博客系统)](https://github.com/TryGhost/Ghost)
