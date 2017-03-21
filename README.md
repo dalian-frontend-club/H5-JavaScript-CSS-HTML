@@ -42,6 +42,7 @@ Web Frontend Corner
 - [React-Awesome(en)](https://github.com/enaqx/awesome-react)
 - [ReactNative(en)](https://github.com/jondot/awesome-react-native)
 - [Redux-Awesome(en)](https://github.com/xgrommx/awesome-redux)
+- [React脚手架(React+Redux+React-Router)](https://github.com/ryouaki/react-redux-create)
 
 #### Angular.js
 - [Angularjs-Awesome(en)](https://github.com/gianarb/awesome-angularjs)
