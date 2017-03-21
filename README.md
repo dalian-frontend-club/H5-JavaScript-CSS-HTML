@@ -36,6 +36,7 @@ Web Frontend Corner
 ## Web Advanced 
 - [前端程序员必知：单页面应用的核心](https://segmentfault.com/p/1210000008757820/read)
 - [高性能移动端开发](http://web.jobbole.com/90427/?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&from=timeline&isappinstalled=1)
+- [Promise Demo](https://github.com/ryouaki/PromiseDemo)
 
 ## Tools
 - [Webpack(en)](https://github.com/webpack/webpack)
@@ -50,6 +51,7 @@ Web Frontend Corner
 - [ReactNative(en)](https://github.com/jondot/awesome-react-native)
 - [Redux-Awesome(en)](https://github.com/xgrommx/awesome-redux)
 - [React脚手架(React+Redux+React-Router)](https://github.com/ryouaki/react-redux-create)
+- [React-Howto(React成员之一对react使用者的忠告)](https://github.com/ryouaki/react-howto)
 
 #### Angular.js
 - [Angularjs-Awesome(en)](https://github.com/gianarb/awesome-angularjs)
@@ -61,6 +63,10 @@ Web Frontend Corner
 - [Ember.js(en)](https://github.com/emberjs/ember.js)
 
 ## Library
+- [Underscore.js(提供了一整套函数式编程的实用功能)](http://www.css88.com/doc/underscore/)
+- [Underscore.js(en)](http://underscorejs.org/)
+- [lodash.js(这是一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库)](http://lodashjs.com/)
+- [Mobile-Detect(判断客户端是移动设备还是浏览器的库)](https://github.com/serbanghita/Mobile-Detect/)
 
 ## Awesome Web Site
 - [DevDocs(非常好的在线和离线资料库)(en)](http://devdocs.io/)
