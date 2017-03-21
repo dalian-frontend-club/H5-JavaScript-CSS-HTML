@@ -31,6 +31,8 @@ Web Frontend Corner
 - [HTML5教程(From:W3CSchoole)](http://www.w3school.com.cn/html5/index.asp)
 
 ## Web Advanced 
+- [前端程序员必知：单页面应用的核心](https://segmentfault.com/p/1210000008757820/read)
+- [高性能移动端开发](http://web.jobbole.com/90427/?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&from=timeline&isappinstalled=1)
 
 ## Tools
 - [Webpack(en)](https://github.com/webpack/webpack)
@@ -53,6 +55,7 @@ Web Frontend Corner
 - [Vue-Awesome(en)](https://github.com/vuejs/awesome-vue)
 
 #### Ember.js
+- [Ember.js(en)](https://github.com/emberjs/ember.js)
 
 ## Library
 
