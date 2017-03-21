@@ -17,11 +17,23 @@ Web Frontend Corner
 
 ## CSS
 
+### CSS基础学习资料
+- [CSS基础教程(From:W3CSchoole)](http://www.w3school.com.cn/css/index.asp)
+- [CSS基础教程(From:菜鸟教程)](http://www.runoob.com/css/css-tutorial.html)
+
+### CSS进阶学习资料
+- [CSS3教程](http://www.w3school.com.cn/css3/)
+- [CSS 动画库](https://github.com/daneden/animate.css)
+
 ## HTML
 
 ## Web Advanced 
 
 ## Tools
+- [Webpack](https://github.com/webpack/webpack)
+- [glup](https://github.com/gulpjs/gulp)
+- [grunt](https://github.com/gruntjs/grunt)
+- [Node.js](https://nodejs.org/en/)
 
 ## Framework
 
@@ -30,3 +42,4 @@ Web Frontend Corner
 ## Awesome Web Site
 - [DevDocs(非常好的在线和离线资料库)](http://devdocs.io/)
 - [caniuse(检查兼容性的网站)](http://http://caniuse.com/)
+- [前端学习资料库](https://github.com/FortAwesome/Font-Awesome)
