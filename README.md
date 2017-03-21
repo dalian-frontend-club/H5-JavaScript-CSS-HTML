@@ -10,10 +10,11 @@ Web Frontend Corner
 
 #### JavaScript进阶学习资料
 - [阮一峰JavaScript标准参考](http://www.ruanyifeng.com/blog/javascript/)
-- [ES6](https://github.com/lukehoban/es6features)
+- [ES6(en)](https://github.com/lukehoban/es6features)
+- [JavaScript Design Pattern(ES6)](https://github.com/ryouaki/ECMAScript2016-Design-Patterns)
 
 #### JavaScript深入提高资料
-- [You do not know JS](https://github.com/ryouaki/You-Dont-Know-JS)
+- [You do not know JS(en)](https://github.com/ryouaki/You-Dont-Know-JS)
 
 ## CSS
 
@@ -30,16 +31,29 @@ Web Frontend Corner
 ## Web Advanced 
 
 ## Tools
-- [Webpack](https://github.com/webpack/webpack)
-- [glup](https://github.com/gulpjs/gulp)
-- [grunt](https://github.com/gruntjs/grunt)
-- [Node.js](https://nodejs.org/en/)
+- [Webpack(en)](https://github.com/webpack/webpack)
+- [glup(en)](https://github.com/gulpjs/gulp)
+- [grunt(en)](https://github.com/gruntjs/grunt)
+- [Node.js(en)](https://nodejs.org/en/)
 
 ## Framework
+
+#### React.js
+- [React-Awesome(en)](https://github.com/enaqx/awesome-react)
+- [ReactNative(en)](https://github.com/jondot/awesome-react-native)
+- [Redux-Awesome(en)](https://github.com/xgrommx/awesome-redux)
+
+#### Angular.js
+- [Angularjs-Awesome(en)](https://github.com/gianarb/awesome-angularjs)
+
+#### Vue.js
+- [Vue-Awesome(en)](https://github.com/vuejs/awesome-vue)
+
+#### Ember.js
 
 ## Library
 
 ## Awesome Web Site
-- [DevDocs(非常好的在线和离线资料库)](http://devdocs.io/)
-- [caniuse(检查兼容性的网站)](http://http://caniuse.com/)
-- [前端学习资料库](https://github.com/FortAwesome/Font-Awesome)
+- [DevDocs(非常好的在线和离线资料库)(en)](http://devdocs.io/)
+- [caniuse(检查兼容性的网站)(en)](http://http://caniuse.com/)
+- [前端学习资料库(en)](https://github.com/FortAwesome/Font-Awesome)
