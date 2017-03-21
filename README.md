@@ -15,6 +15,7 @@ Web Frontend Corner
 
 #### JavaScript深入提高资料
 - [You do not know JS(en)](https://github.com/ryouaki/You-Dont-Know-JS)
+- [Node.js-Awesome](https://github.com/ryouaki/awesome-nodejs)
 
 ## CSS
 
@@ -27,6 +28,7 @@ Web Frontend Corner
 - [CSS 动画库](https://github.com/daneden/animate.css)
 
 ## HTML
+- [HTML5教程(From:W3CSchoole)](http://www.w3school.com.cn/html5/index.asp)
 
 ## Web Advanced 
 
