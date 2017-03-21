@@ -76,3 +76,7 @@ Web Frontend Corner
 - [DevDocs(非常好的在线和离线资料库)(en)](http://devdocs.io/)
 - [caniuse(检查兼容性的网站)(en)](http://http://caniuse.com/)
 - [前端学习资料库(en)](https://github.com/FortAwesome/Font-Awesome)
+
+## Open source Project 
+- [Ghost(一个nodejs的博客系统)](https://github.com/TryGhost/Ghost)
+- [WP-CALYPSO(一个基于nodejs后端+react前端的workpress系统，非常值得借鉴和学习)](https://github.com/Automattic/wp-calypso)
