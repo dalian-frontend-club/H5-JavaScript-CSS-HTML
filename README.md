@@ -16,6 +16,7 @@ Web Frontend Corner
 #### JavaScript深入提高资料
 - [You do not know JS(en)](https://github.com/ryouaki/You-Dont-Know-JS)
 - [Node.js-Awesome](https://github.com/ryouaki/awesome-nodejs)
+- [Dmitry Soshnikov‘s blog(有大量前沿的js文章)](http://dmitrysoshnikov.com/)
 
 ## CSS
 
