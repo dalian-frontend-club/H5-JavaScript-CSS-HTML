@@ -20,8 +20,6 @@ Web Frontend Corner
 ## HTML
 
 ## Web Advanced 
-- [DevDocs(非常好的在线和离线资料库)](http://devdocs.io/)
-- [caniuse(检查兼容性的网站)](http://http://caniuse.com/)
 
 ## Tools
 
@@ -30,3 +28,5 @@ Web Frontend Corner
 ## Library
 
 ## Awesome Web Site
+- [DevDocs(非常好的在线和离线资料库)](http://devdocs.io/)
+- [caniuse(检查兼容性的网站)](http://http://caniuse.com/)
