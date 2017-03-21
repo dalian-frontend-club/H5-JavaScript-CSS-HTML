@@ -37,6 +37,8 @@ Web Frontend Corner
 - [前端程序员必知：单页面应用的核心](https://segmentfault.com/p/1210000008757820/read)
 - [高性能移动端开发](http://web.jobbole.com/90427/?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&from=timeline&isappinstalled=1)
 - [Promise Demo](https://github.com/ryouaki/PromiseDemo)
+- [浏览器工作原理](https://github.com/Mmzer/how-browser-work)
+- [Async Demo](https://github.com/ryouaki/async_demo)
 
 ## Tools
 - [Webpack(en)](https://github.com/webpack/webpack)
