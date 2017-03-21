@@ -69,6 +69,8 @@ Web Frontend Corner
 - [Underscore.js(en)](http://underscorejs.org/)
 - [lodash.js(这是一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库)](http://lodashjs.com/)
 - [Mobile-Detect(判断客户端是移动设备还是浏览器的库)](https://github.com/serbanghita/Mobile-Detect/)
+- [Zepto(简化版本的JQuery)](http://zeptojs.com/)
+- [JQuery(无需介绍)](https://jquery.com/)
 
 ## Awesome Web Site
 - [DevDocs(非常好的在线和离线资料库)(en)](http://devdocs.io/)
