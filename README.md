@@ -12,6 +12,8 @@ Web Frontend Corner
 - [阮一峰JavaScript标准参考](http://www.ruanyifeng.com/blog/javascript/)
 - [ES6(en)](https://github.com/lukehoban/es6features)
 - [JavaScript Design Pattern(ES6)](https://github.com/ryouaki/ECMAScript2016-Design-Patterns)
+- [前端开发者不得不知道的10个ES6新特性](http://caibaojian.com/toutiao/7129)
+- 
 
 #### JavaScript深入提高资料
 - [You do not know JS(en)](https://github.com/ryouaki/You-Dont-Know-JS)
@@ -31,6 +33,8 @@ Web Frontend Corner
 - [sass(en)](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 - [postcss(en)](http://postcss.org/)
 - [Flex布局(From:阮一峰)](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
+- [CSS卡牌旋转动画](http://caibaojian.com/css3-card.html)
+- [CSS绘制各种图形](http://svend.cc/posts/40665/?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&from=timeline&isappinstalled=1&nsukey=vUAWdvteTopSLcB7H3FOaYb%2Bon1BNWKj5dah6woXUiSrwhQ4OiCEldka3a14F28ek8nXw8AKbQVeCXWYhp5noTC%2B7l2ya1RyiEvf7sMjORu6Yavt8hqmFRhYTQEDFDfwozwMv4uMV%2FQkR9ofJwfmrxKjbkw70YJ8HfJA7YTjsblowJDuSXqJTrrDQq%2BcbFTa)
 
 ## HTML
 - [HTML5教程(From:W3CSchoole)](http://www.w3school.com.cn/html5/index.asp)
@@ -41,6 +45,7 @@ Web Frontend Corner
 - [Promise Demo](https://github.com/ryouaki/PromiseDemo)
 - [浏览器工作原理](https://github.com/Mmzer/how-browser-work)
 - [Async Demo](https://github.com/ryouaki/async_demo)
+- [饿了么大前端Nodejs进阶](https://cnodejs.org/topic/58ad76db7872ea0864fedfcc)
 
 ## Tools
 - [Webpack(en)](https://github.com/webpack/webpack)
