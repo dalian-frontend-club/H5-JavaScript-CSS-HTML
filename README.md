@@ -61,6 +61,7 @@ Web Frontend Corner
 - [Redux-Awesome(en)](https://github.com/xgrommx/awesome-redux)
 - [React脚手架(React+Redux+React-Router)](https://github.com/ryouaki/react-redux-create)
 - [React-Howto(React成员之一对react使用者的忠告)](https://github.com/ryouaki/react-howto)
+- [React.js深入了解教程](http://caibaojian.com/toutiao/5761)
 
 #### Angular.js
 - [Angularjs-Awesome(en)](https://github.com/gianarb/awesome-angularjs)
