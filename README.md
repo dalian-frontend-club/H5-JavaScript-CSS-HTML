@@ -65,6 +65,7 @@ Web Frontend Corner
 
 #### Angular.js
 - [Angularjs-Awesome(en)](https://github.com/gianarb/awesome-angularjs)
+- [Angular-Awesome(en)](https://github.com/gdi2290/awesome-angular)
 
 #### Vue.js
 - [Vue-Awesome(en)](https://github.com/vuejs/awesome-vue)
